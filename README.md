@@ -30,7 +30,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés :
 ## Installation
 1. **Clonez ce dépôt** sur votre machine locale :
    ```bash
-   git clone https://github.com/elouarddine/Application-Gestion-Taches.git
+   git clone https://github.com/vycash/Todo-app.git
    ```
 
 2. **Accédez au répertoire du projet** :
